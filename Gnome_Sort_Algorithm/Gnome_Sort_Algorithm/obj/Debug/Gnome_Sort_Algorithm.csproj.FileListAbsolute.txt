@@ -1,0 +1,6 @@
+c:\users\waqar nasir\documents\visual studio 2013\Projects\Gnome_Sort_Algorithm\Gnome_Sort_Algorithm\bin\Debug\Gnome_Sort_Algorithm.exe.config
+c:\users\waqar nasir\documents\visual studio 2013\Projects\Gnome_Sort_Algorithm\Gnome_Sort_Algorithm\bin\Debug\Gnome_Sort_Algorithm.exe
+c:\users\waqar nasir\documents\visual studio 2013\Projects\Gnome_Sort_Algorithm\Gnome_Sort_Algorithm\bin\Debug\Gnome_Sort_Algorithm.pdb
+c:\users\waqar nasir\documents\visual studio 2013\Projects\Gnome_Sort_Algorithm\Gnome_Sort_Algorithm\obj\Debug\Gnome_Sort_Algorithm.csprojResolveAssemblyReference.cache
+c:\users\waqar nasir\documents\visual studio 2013\Projects\Gnome_Sort_Algorithm\Gnome_Sort_Algorithm\obj\Debug\Gnome_Sort_Algorithm.exe
+c:\users\waqar nasir\documents\visual studio 2013\Projects\Gnome_Sort_Algorithm\Gnome_Sort_Algorithm\obj\Debug\Gnome_Sort_Algorithm.pdb
